@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agustinus Wesly</h1>
 <h3 align="center">Frontend Web Dev</h3>
 
-<img align="center" alt="hi" width="360" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F4a589a2631807dd07cd3f98ca581fcd6%2Ftenor.gif%3Fitemid%3D9583907&f=1&nofb=1&ipt=9a2ced5c428ae938326be7034d466b5c2713fa3c2ffbee64d25541868b11e98d&ipo=images" /> <br />
-
 - 👨‍💻 All of my projects are available at [https://agus-wesly.vercel.app/](https://agus-wesly.vercel.app/)
 
 - 📝 I regularly write articles on [https://agus-wesly.vercel.app/blog](https://agus-wesly.vercel.app/blog)
